@@ -1,0 +1,8 @@
+stages:
+- name: build
+  steps:
+  - runScriptConfig:
+      image: java:8
+      shellScript: mvn clean
+timeout: 60
+notification: {}
