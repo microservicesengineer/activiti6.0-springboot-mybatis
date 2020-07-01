@@ -25,7 +25,7 @@
         <activiti.version>6.0.0</activiti.version>
         <fastjson.version>1.2.45</fastjson.version>
         <druid.version>1.1.9</druid.version>
-        <mysql.version>5.1.45</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <lombok.version>1.16.20</lombok.version>
         <swagger.version>2.8.0</swagger.version>
         <commons.lang.version>2.6</commons.lang.version>
