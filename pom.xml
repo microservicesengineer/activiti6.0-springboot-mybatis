@@ -23,7 +23,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <activiti.version>6.0.0</activiti.version>
-        <fastjson.version>1.2.45</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <druid.version>1.1.9</druid.version>
         <mysql.version>5.1.45</mysql.version>
         <lombok.version>1.16.20</lombok.version>
